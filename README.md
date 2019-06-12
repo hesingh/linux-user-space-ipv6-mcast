@@ -1,4 +1,4 @@
-This directory contains prototype C code to help a host join a new IPv6 link-local multicast
+This directory contains prototype C code to help a Linux host join a new IPv6 link-local multicast
 address as required by https://datatracker.ietf.org/doc/draft-hsingh-ipv6-coin-ml/
 
 The code uses IPV6_JOIN_GROUP from https://tools.ietf.org/html/rfc3493
