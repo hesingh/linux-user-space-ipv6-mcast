@@ -8,4 +8,4 @@ The code uses IPV6_JOIN_GROUP from https://tools.ietf.org/html/rfc3493
 Just type "make" to build the code.  The server code app is "svr".  Client code app is "clnt"
 
 Run the code using two terminals.  One terminal runs svr and another runs clnt.
-Once the client runs, the sever prints "hello multicast world".
+Once the client runs, the server prints "hello multicast world".
